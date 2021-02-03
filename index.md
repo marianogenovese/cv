@@ -77,21 +77,21 @@ Aupar es una plataforma en la nube usando tecnologías Microsoft y la nube Azure
 
 ## Experiencia bancarias-financieras
 `Sisoemp`
-Banco del Pacífico - Guayaquil-Ecuador
+- Banco del Pacífico - Guayaquil-Ecuador
 
 `Techsoft`
-Banco de Guayaquil - Ecuador
-Banco del Austro - Ecuador
-Credimatic - Ecuador
-Grupo Financiero Occidente - Guatemala
-Procesadora GrupoTRT - Guatemala
-Banco Ripley - Chile
-Fedecrédito - El Salvador
+- Banco de Guayaquil - Ecuador
+- Banco del Austro - Ecuador
+- Credimatic - Ecuador
+- Grupo Financiero Occidente - Guatemala
+- Procesadora GrupoTRT - Guatemala
+- Banco Ripley - Chile
+- Fedecrédito - El Salvador
 
 `Aritec`
-Procesadora GrupoTRT - Guatemala
-Fedecrédito - El Salvador
-Banrural - Honduras
+- Procesadora GrupoTRT - Guatemala
+- Fedecrédito - El Salvador
+- Banrural - Honduras
 
 
 ## Links
