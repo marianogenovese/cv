@@ -76,10 +76,10 @@ Escribí Space que es un motor de consultas en tiempo real como un complemento a
 Aupar es una plataforma en la nube usando tecnologías Microsoft y la nube Azure que en conjunto con una app móvil para Android y iOS permite la geolocalización indoor mediante el uso de tecnologias bluetooth. Mis responsabilidas en Aupar fue liderar un grupo de 5 desarrolladores y elevar la calidad de la aplicación móvil implementando tecnologias relacionadas al mejorar el control y la calidad de software usando desarrollo orientado a pruebas (unit testing/ui testing). Teniendo como resultado despues de aplicar una reingenieria a toda la aplicación móvil un bajo consumo de recursos una aplicación más liviana con mejor cantidad de fps mejorando la experiencia del usuario al detectar la geolocalizacion indoor de forma más optimizada usando algoritmos para un cálculo de proximidad más efectivo.
 
 ## Experiencia bancarias-financieras
-`Sisoemp`
+__Sisoemp__
 - Banco del Pacífico - Ecuador
 
-`Techsoft`
+__Techsoft__
 - Banco de Guayaquil - Ecuador
 - Banco del Austro - Ecuador
 - Credimatic - Ecuador
@@ -88,7 +88,7 @@ Aupar es una plataforma en la nube usando tecnologías Microsoft y la nube Azure
 - Banco Ripley - Chile
 - Fedecrédito - El Salvador
 
-`Aritec`
+__Aritec__
 - Procesadora GrupoTRT - Guatemala
 - Fedecrédito - El Salvador
 - Banrural - Honduras
