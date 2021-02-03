@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Mariano Genovese's CV
+title: Mariano Genovese CV
 ---
 # Mariano Genovese
 Arquitecto, Desarrollador
