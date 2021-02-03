@@ -61,16 +61,24 @@ __Tecnológico Sudamericano, Guayaquil-Ecuador__ Tecnólogo en Análisis de Sist
 ## Proyectos
 
 ### Aritec
-Soy socio fundador de [Aritec-la](http://aritec-la.com/), empresa constituída en Guatemala dedicada al desarrollo de software para negocios relacionados con Bancos, Financieras e Industrias. Entre las múltiples responsabilidades ha sido liderar desarrollos con nuevas tecnologías y metodologías que permitan elevar la calidad del software que producimos. He trabajado de forma remota desde Ecuador por muchos años en conjunto con el equipo de desarrollo.
+- Soy socio fundador de [Aritec-la](http://aritec-la.com/), empresa constituída en Guatemala dedicada al desarrollo de software para negocios relacionados con Bancos, Financieras e Industrias.
+- Mi rol ha sido liderar desarrollos con nuevas tecnologías y metodologías que permitan elevar la calidad del software que producimos.
+- He trabajado de forma remota desde Ecuador por muchos años en conjunto con el equipo de desarrollo.
 
 ### Integra
-Creé Integra, que es Bus de Servicios desarrollado en c# super optimizada para el alto rendimiento y bajo consumo de recursos. La meta de Integra es tener una plataforma sobre el cual construir aplicaciones distribuidas altamente escalabes, robustas, resilientes y tolerantes a fallos. Integra esta compuesto por un Runtime para ejecutar servicios y orquestar la transaccionalidad entre ellos, tambien contiene un framework para desarrollar aplicaciones nuevas o reutilizar servicios.
+- Creé Integra, que es Bus de Servicios desarrollado en c#
+- Super optimizada para el alto rendimiento y bajo consumo de recursos.
+- La meta de Integra es tener una plataforma sobre el cual construir servicios distribuidos altamente escalabes, robustas, resilientes y tolerantes a fallos.
 
 ### EPS
-Creé EPS (Electronic Payment System) que es una plataforma de procesamiento de transacciones de tarjetas Visa altamentemente configurable y extensible. EPS esta construido usando el framework de Integra para desarrollar varios servicios que se comunican entre sí para procesar de forma distribuida y altamente escalable transacciones con muy bajo uso de recursos. Con nuestra tecnología llegamos a procesar más de 1000 transacciones por segundo. EPS ha procesado transacciones de tarjeta de crédito y débito de 3 bancos en 3 diferentes paises de Centroamérica (Guatemala, Honduras, El Salvador). Gracias al uso del framework Integra se pudo reutilizar servicios reduciendo costos y tiempos de desarrollo. Mis responsabilidades derivadas de la puesta en producción de este proyecto en multiples bancos y paises fue dar soporte y estar en contacto con los usuarios y clientes teniendo como resultado ningún problema en alrededor de 6 años desde su puesta en producción.
+- Creé EPS (Electronic Payment System) que es una plataforma de procesamiento de transacciones de tarjetas Visa altamentemente configurable y extensible.
+- EPS esta construido usando el framework de Integra para desarrollar varios servicios que se comunican entre sí.
+- Procesamiento de forma distribuida y altamente escalable transacciones.
 
 ### Space
-Creé Space que es un motor de consultas en tiempo real como un complemento a EPS, puesto que una plataforma de procesamiento de transacciones necesita ser monitoreada. Space un motor de consulta que usa un lenguaje propietario tipo SQL el cual permite realizar consultas a la plataforma Integra para conocer que esta pasando internamente. Usando Space podemos hacer consultas y conocer por ejemplo tiempos de respuesta o ver que transacciones se estan procesando actualmente o errores que existan en la plataforma y reaccionar de forma inmediata. 
+- Creé Space que es un motor de consultas en tiempo real como un complemento a EPS
+- Permite el monitoreo de EPS/Integra
+- Usando un lenguaje propietario tipo SQL se puede consultas a la plataforma para conocer que esta pasando internamente.
 
 ### Aupar
 Aupar es una plataforma en la nube usando tecnologías Microsoft y la nube Azure que en conjunto con una app móvil para Android y iOS permite la geolocalización indoor mediante el uso de tecnologias bluetooth. Mis responsabilidas en Aupar fue liderar un grupo de 5 desarrolladores y elevar la calidad de la aplicación móvil implementando tecnologias relacionadas al mejorar el control y la calidad de software usando desarrollo orientado a pruebas (unit testing/ui testing). Teniendo como resultado despues de aplicar una reingenieria a toda la aplicación móvil un bajo consumo de recursos una aplicación más liviana con mejor cantidad de fps mejorando la experiencia del usuario al detectar la geolocalizacion indoor de forma más optimizada usando algoritmos para un cálculo de proximidad más efectivo.
