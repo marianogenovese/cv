@@ -11,18 +11,15 @@ Arquitecto, Desarrollador.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`1987-2000`
+__Colegio Salesiano Cristobal Colón, Guayaquil-Ecuador.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Bachiller en ciencias informatica.
 
-- Sizar
+`2002 - 2006`
+__Tecnológico Sudamericano, Guayaquil-Ecuador__
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+- Tecnólogo en Análisis de Sistemas.
 
 
 <!-- ### Footer
