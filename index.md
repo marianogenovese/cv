@@ -21,9 +21,10 @@ __Techsoft, Guayaquil-Ecuador.__
 
 `2002-2005`
 __Sisoemp, Guayaquil-Ecuador.__
+- .NET, SQL2000, COBIS.
 
 `2001-2002`
-__Banco Bolivariano, Guayaquil-Ecuador.__
+__Banco Bolivariano, Guayaquil-Ecuador.__ Becario
 
 ## Educación
 
