@@ -77,7 +77,7 @@ Aupar es una plataforma en la nube usando tecnologías Microsoft y la nube Azure
 
 ## Experiencia bancarias-financieras
 `Sisoemp`
-- Banco del Pacífico - Guayaquil-Ecuador
+- Banco del Pacífico - Ecuador
 
 `Techsoft`
 - Banco de Guayaquil - Ecuador
