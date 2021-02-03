@@ -11,17 +11,16 @@ Arquitecto, Desarrollador.
 
 ## Empleos
 `2013-`
-__Aritec, Ciudad de Guatemala-Guatemala/Guayaquil-Ecuador.__
+__Aritec, Ciudad de Guatemala-Guatemala/Guayaquil-Ecuador.__ Arquitecto de soluciones
 
 `2012-2013`
-__Banco del Austro, Cuenca-Ecuador.__
+__Banco del Austro, Cuenca-Ecuador.__ Desarrollador/Consultor
 
 `2005-2011`
-__Techsoft, Guayaquil-Ecuador.__
+__Techsoft, Guayaquil-Ecuador.__ Desarrollador de software
 
 `2002-2005`
-__Sisoemp, Guayaquil-Ecuador.__
-- .NET, SQL2000, COBIS.
+__Sisoemp, Guayaquil-Ecuador.__ Desarrollador de software
 
 `2001-2002`
 __Banco Bolivariano, Guayaquil-Ecuador.__ Becario
@@ -29,14 +28,10 @@ __Banco Bolivariano, Guayaquil-Ecuador.__ Becario
 ## Educación
 
 `1987-2000`
-__Colegio Salesiano Cristobal Colón, Guayaquil-Ecuador.__
-
-- Bachiller en ciencias informatica.
+__Colegio Salesiano Cristobal Colón, Guayaquil-Ecuador.__ Bachiller en ciencias informatica
 
 `2002 - 2006`
-__Tecnológico Sudamericano, Guayaquil-Ecuador__
-
-- Tecnólogo en Análisis de Sistemas.
+__Tecnológico Sudamericano, Guayaquil-Ecuador__ Tecnólogo en Análisis de Sistemas
 
 
 <!-- ### Footer
