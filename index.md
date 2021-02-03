@@ -61,31 +61,31 @@ __Tecnológico Sudamericano, Guayaquil-Ecuador__ Tecnólogo en Análisis de Sist
 ## Proyectos
 
 ### Aritec
-- Soy socio fundador de [Aritec-la](http://aritec-la.com/), empresa constituída en Guatemala dedicada al desarrollo de software para negocios relacionados con Bancos, Financieras e Industrias.
-- Mi rol ha sido liderar desarrollos con nuevas tecnologías y metodologías que permitan elevar la calidad del software que producimos.
-- He trabajado de forma remota desde Ecuador por muchos años en conjunto con el equipo de desarrollo.
+* Soy socio fundador de [Aritec-la](http://aritec-la.com/), empresa constituída en Guatemala dedicada al desarrollo de software para negocios relacionados con Bancos, Financieras e Industrias.
+* Mi rol ha sido liderar desarrollos con nuevas tecnologías y metodologías que permitan elevar la calidad del software que producimos.
+* He trabajado de forma remota desde Ecuador por muchos años en conjunto con el equipo de desarrollo.
 
 ### Integra
-- Creé Integra, que es Bus de Servicios desarrollado en c#
-- Super optimizada para el alto rendimiento y bajo consumo de recursos.
-- La meta de Integra es tener una plataforma sobre el cual construir servicios distribuidos altamente escalabes, robustas, resilientes y tolerantes a fallos.
+* Creé Integra, que es Bus de Servicios desarrollado en c#
+* Super optimizada para el alto rendimiento y bajo consumo de recursos.
+* La meta de Integra es tener una plataforma sobre el cual construir servicios distribuidos altamente escalabes, robustas, resilientes y tolerantes a fallos.
 
 ### EPS
-- Creé EPS (Electronic Payment System) que es una plataforma de procesamiento de transacciones de tarjetas Visa altamentemente configurable y extensible.
-- EPS esta construido usando el framework de Integra para desarrollar varios servicios que se comunican entre sí.
-- Procesamiento de forma distribuida y altamente escalable transacciones.
+* Creé EPS (Electronic Payment System) que es una plataforma de procesamiento de transacciones de tarjetas Visa altamentemente configurable y extensible.
+* EPS esta construido usando el framework de Integra para desarrollar varios servicios que se comunican entre sí.
+* Procesamiento de forma distribuida y altamente escalable transacciones.
 
 ### Space
-- Creé Space que es un motor de consultas en tiempo real como un complemento a EPS
-- Permite el monitoreo de EPS/Integra
-- Usando un lenguaje propietario tipo SQL se puede consultas a la plataforma para conocer que esta pasando internamente.
+* Creé Space que es un motor de consultas en tiempo real como un complemento a EPS
+* Permite el monitoreo de EPS/Integra
+* Usando un lenguaje propietario tipo SQL se puede consultas a la plataforma para conocer que esta pasando internamente.
 
 ### Aupar
-- Aupar es una plataforma para geolocalización indoor
-- Desarrollado con tecnologías Microsoft y la nube Azure y una app móvil para Android y iOS
-- Mis responsabilidas en Aupar:
-  - Liderar un grupo de desarrolladores
-  - Elevar la calidad de la aplicación móvil implementando tecnologias relacionadas al mejorar el control y la calidad de software usando desarrollo orientado a pruebas (unit testing/ui testing)
+* Aupar es una plataforma para geolocalización indoor
+* Desarrollado con tecnologías Microsoft y la nube Azure y una app móvil para Android y iOS
+* Mis responsabilidas en Aupar:
+  * Liderar un grupo de desarrolladores
+  * Elevar la calidad de la aplicación móvil implementando tecnologias relacionadas al mejorar el control y la calidad de software usando desarrollo orientado a pruebas (unit testing/ui testing)
 
 ## Experiencia bancarias-financieras
 __Sisoemp__
