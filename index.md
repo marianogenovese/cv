@@ -81,7 +81,11 @@ __Tecnológico Sudamericano, Guayaquil-Ecuador__ Tecnólogo en Análisis de Sist
 - Usando un lenguaje propietario tipo SQL se puede consultas a la plataforma para conocer que esta pasando internamente.
 
 ### Aupar
-Aupar es una plataforma en la nube usando tecnologías Microsoft y la nube Azure que en conjunto con una app móvil para Android y iOS permite la geolocalización indoor mediante el uso de tecnologias bluetooth. Mis responsabilidas en Aupar fue liderar un grupo de 5 desarrolladores y elevar la calidad de la aplicación móvil implementando tecnologias relacionadas al mejorar el control y la calidad de software usando desarrollo orientado a pruebas (unit testing/ui testing). Teniendo como resultado despues de aplicar una reingenieria a toda la aplicación móvil un bajo consumo de recursos una aplicación más liviana con mejor cantidad de fps mejorando la experiencia del usuario al detectar la geolocalizacion indoor de forma más optimizada usando algoritmos para un cálculo de proximidad más efectivo.
+- Aupar es una plataforma para geolocalización indoor
+- Desarrollado con tecnologías Microsoft y la nube Azure y una app móvil para Android y iOS
+- Mis responsabilidas en Aupar:
+  - Liderar un grupo de desarrolladores
+  - Elevar la calidad de la aplicación móvil implementando tecnologias relacionadas al mejorar el control y la calidad de software usando desarrollo orientado a pruebas (unit testing/ui testing)
 
 ## Experiencia bancarias-financieras
 __Sisoemp__
