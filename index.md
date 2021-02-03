@@ -9,7 +9,23 @@ Arquitecto, Desarrollador.
 <a href="mgenovese1@gmail.com">mgenovese1@gmail.com</a>
 </div>
 
-## Education
+## Empleos
+`2013-`
+__Aritec, Ciudad de Guatemala-Guatemala/Guayaquil-Ecuador.__
+
+`2012-2013`
+__Banco del Austro, Cuenca-Ecuador.__
+
+`2005-2011`
+__Techsoft, Guayaquil-Ecuador.__
+
+`2002-2005`
+__Sisoemp, Guayaquil-Ecuador.__
+
+`2001-2002`
+__Banco Bolivariano, Guayaquil-Ecuador.__
+
+## Educación
 
 `1987-2000`
 __Colegio Salesiano Cristobal Colón, Guayaquil-Ecuador.__
