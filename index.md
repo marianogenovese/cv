@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Mariano Genovese's CV
 ---
 # Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+Arquitecto, Desarrollador.
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
