@@ -33,6 +33,19 @@ __Colegio Salesiano Cristobal Colón, Guayaquil-Ecuador.__ Bachiller en ciencias
 `2002 - 2006`
 __Tecnológico Sudamericano, Guayaquil-Ecuador__ Tecnólogo en Análisis de Sistemas
 
+## Habilidades
+
+* C#
+* F#
+* Javascript (incl. Typescript, React)
+* Go
+* HTML, CSS
+* Bash
+* Git
+* UNIX
+* Docker
+* Azure
+* UI/UX
 
 <!-- ### Footer
 
