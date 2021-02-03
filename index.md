@@ -61,7 +61,7 @@ __Tecnológico Sudamericano, Guayaquil-Ecuador__ Tecnólogo en Análisis de Sist
 ## Proyectos
 
 ### Aritec
-Soy socio fundador de [Aritec-la](http://aritec-la.com/), empresa constituída en Guatemala dedicada al desarrollo de software para negocios relacionados con Bancos, Financieras e Industrias. Entre las múltiples responsabilidades ha sido liderar desarrollos con nuevas tecnologías y metodologías que permitan elevar la calidad del software que producimos. He trabajado de forma remota por muchos años en conjunto con equipo de desarrollo en ubicado en Guatemala.
+Soy socio fundador de [Aritec-la](http://aritec-la.com/), empresa constituída en Guatemala dedicada al desarrollo de software para negocios relacionados con Bancos, Financieras e Industrias. Entre las múltiples responsabilidades ha sido liderar desarrollos con nuevas tecnologías y metodologías que permitan elevar la calidad del software que producimos. He trabajado de forma remota por muchos años en conjunto con el equipo de desarrollo en ubicado en Guatemala.
 
 ### Integra
 Escribí Integra, que es Bus de Servicios desarrollado en c# super optimizada para el alto rendimiento y bajo consumo de recursos. La meta de Integra es tener una plataforma sobre el cual construir aplicaciones distribuidas altamente escalabes, robustas, resilientes y tolerantes a fallos. Integra esta compuesto por un Runtime para ejecutar servicios y orquestar la transaccionalidad entre ellos, tambien contiene un framework para desarrollar aplicaciones nuevas o reutilizar servicios.
