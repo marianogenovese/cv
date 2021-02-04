@@ -35,6 +35,7 @@ __Tecnológico Sudamericano, Guayaquil-Ecuador__ Tecnólogo en Análisis de Sist
 
 ## Habilidades
 
+* Cloud computing
 * C#
 * F#
 * Javascript (incl. Typescript, React)
