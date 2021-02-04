@@ -87,6 +87,11 @@ Mis responsabilidas en Aupar:
   Liderar un grupo de desarrolladores
   Elevar la calidad de la aplicación móvil
 
+### Otros
+Implementaciones y migraciones de sistemas de tarjetas de crédito usando tecnologias desarrolladas por Techsoft.
+Consultoria en procesos contables de transacciones de marcas Visa y Mastercard.
+Consultoria en procesos de autorizaciones de transacciones de marcas Visa y Mastercard.
+
 ## Experiencia bancarias-financieras
 __Sisoemp__
 - Banco del Pacífico - Ecuador
