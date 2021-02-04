@@ -48,6 +48,7 @@ __Tecnológico Sudamericano, Guayaquil-Ecuador__ Tecnólogo en Análisis de Sist
 * UI/UX
 * Java/Kotlin
 * Swift
+* Azure DevOps
 
 ## Areas de experiencia
 
